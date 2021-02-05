@@ -4,4 +4,6 @@ zdy.txt2
 冲突 test 01
 pull 冲突 2 
 pull 冲突
-使用fork解决 
+使用fork解决
+再加点东西
+ 
